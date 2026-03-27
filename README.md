@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatbot Application
 
 A modern, responsive AI chatbot built with **React**, **Redux Toolkit**, and **Vite**. Integrated with the OpenAI ChatGPT API.
@@ -59,3 +60,7 @@ src/
 - **Efficient use of Redux Thunk (10%)**: Done.
 - **API Integration (25%)**: Done.
 - **Quality (10%)**: Premium feel.
+=======
+# second-round-assignm-final-22879-ramnath
+Final Project Assignment - This repository contains the complete final project code and documentation.
+>>>>>>> 14afa66b8add660e43ee284b3146dccf39dfc5d4
